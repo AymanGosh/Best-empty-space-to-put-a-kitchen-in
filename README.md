@@ -1,15 +1,8 @@
 # Best-empty-space-to-put-a-kitchen-in
 Updated BFS algorithm via Python
 
-You are given a building floor map like so:
+You are given a building floor map like so: mapText2.txt
 
-WWWWWWWWWWWWW
-W E   W E   W
-W	W	W
-W           W
-W	W     W
-W E	W E   W
-WWWWWWWWWWWWW
 
 W - wall
 E - employee
